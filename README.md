@@ -1,2 +1,2 @@
 # algorithms
-Competitive Programming Algorithms
+My competitive programming algorithms
