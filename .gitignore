@@ -1,2 +1,7 @@
+#Files Without Extensions (Linux Executables)
+*
+!*.*
+!*/
+
 #Compiled Codes
 *.exe
