@@ -5,3 +5,6 @@
 
 #Compiled Codes
 *.exe
+
+#Vscode Config File
+.vscode
